@@ -5,8 +5,8 @@
 - Tools : Turbo c or similar 
 
 ## Research
-![Description](https://openresearchcalendar.org/)
--- Content 
+![Research Link](https://openresearchcalendar.org/)
+--content
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
 -- Content 

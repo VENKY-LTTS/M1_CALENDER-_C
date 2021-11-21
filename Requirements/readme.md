@@ -8,7 +8,7 @@
 ![Research Link](https://openresearchcalendar.org/)
 --content 
 ## Defining Our System
-    -- TBD
+    -- A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 

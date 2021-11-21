@@ -20,10 +20,10 @@
 
 - Data corruption is possible 
 - alternating or even deleting events.
-##OPPORTUNITIES 
+## OPPORTUNITIES 
 - Can be used at any type of places.
 
-##THREATS
+## THREATS
 - Other similar application
 
 # 4W&#39;s and 1&#39;H

@@ -29,7 +29,7 @@
 
 ## How:
 
-**TBD**
+**In the output formet select the option and select the field option it will show has the result**
 
 # Detail requirements
 ## High Level Requirements:

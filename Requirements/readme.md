@@ -16,19 +16,16 @@
 
 ## Who:
 
-**TBD**
+**70% rely on a digital calendar most to manage their life, with 46.7% of respondents (470) relying most on their mobile calendar, and 23.3% of respondents (234) relying on a desktop calendar. Paper calendars such as a diary, journal or planner are preferred by 28.3% of respondents (278)**
 
-## What:
-
-**TBD**
 
 ## When:
 
-**TBD**
+**Calendars are also used to help people manage their personal schedules, time, and activities, particularly when individuals have numerous work, school, and family commitments.**
 
 ## Where:
 
-**TBD**
+**calendar, any system for dividing time over extended periods, such as days, months, or years, and arranging such divisions in a definite order. A calendar is convenient for regulating civil life and religious observances and for historical and scientific purpose**
 
 ## How:
 

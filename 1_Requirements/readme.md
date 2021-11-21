@@ -16,6 +16,16 @@
 - Automatic shows the important meeting, events
 - No chance of errers in showing date
 
+## WEAKNESS
+
+- Data corruption is possible 
+- alternating or even deleting events.
+##OPPORTUNITIES 
+- Can be used at any type of places.
+
+##THREATS
+- Other similar application
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:

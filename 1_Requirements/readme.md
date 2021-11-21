@@ -10,7 +10,11 @@
 ## Defining Our System
     -- A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+###STRENGTHS
+
+- Saves times
+- Automatic shows the important meeting, events
+- No chance of errers in showing date
 
 # 4W&#39;s and 1&#39;H
 

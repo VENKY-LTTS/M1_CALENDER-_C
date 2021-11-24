@@ -78,7 +78,20 @@
 
 # Structural 
 
-![UML-class-diagram-of-the-calendar-case-study](https://user-images.githubusercontent.com/94223103/142966733-451aba0d-dfe3-484f-b76e-063e4c86adac.png)
+![UML-class-diagram-of-the-calendar-case-study](https://user-images.githubusercontent.com/94223103/142966733-451aba0d-dfe3-484f-b76e-063e4c86adac.png) 
+
+# Implementation
+
+## Folder Structure
+
+| Folder | Description |
+| --- | --- |
+| inc | All header files |
+| src | Main source code for system |
+| test | All source code and data for testing purposes |
+| build | Build output |
+
+
 
 
 
